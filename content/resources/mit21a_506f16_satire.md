@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding satire.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/f4515fb7408dc9268fc339a9b393eb17_MIT21A_506F16_Satire.pdf
 file_type: application/pdf
+parent_uid: 12bb964c-3fca-da79-c2b5-157e763dcb59
 resourcetype: Document
 title: '21A.506F16 The Anthropology of Politics - Assignments: Final Paper On Political
   Satire'
